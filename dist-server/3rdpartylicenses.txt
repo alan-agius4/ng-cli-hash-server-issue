@@ -1,0 +1,15 @@
+@angular/core@5.2.7
+MIT
+MIT
+
+@angular/platform-server@5.2.7
+MIT
+MIT
+
+@angular/router@5.2.7
+MIT
+MIT
+
+@angular/platform-browser@5.2.7
+MIT
+MIT
